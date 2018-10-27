@@ -1,3 +1,12 @@
+/*
+ * Creați o structură denumită Produs care să conține câmpurile cod (int),
+ * denumire (char[30]) și pret (număr real). Scrieți un program care citește de
+ * la tastatură un număr natural n (1 ≤ n ≤ 1000) și datele a n produse. Afișați
+ * costul pentru a cumpăra 10 produse de fiecare tip, cel mai ieftin și cel mai
+ * scump produs. Realizați modificările necesare pentru ca structura creată să
+ * poată fi apelată Produs, nu struct Produs.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>

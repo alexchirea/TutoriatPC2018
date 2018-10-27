@@ -1,3 +1,10 @@
+/*
+ * Scrieți un program care citește de la tastaură un număr natural n (1 ≤ n ≤ 1000) care
+ * reprezintă numărul de elemente al vectorului v și elementele acestuia (numere naturale).
+ * Afișați, pe primul rând, elementele pare, iar, pe cel de-al doilea, rădăcina pătrată a
+ * elementelor impare.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

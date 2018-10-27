@@ -1,3 +1,9 @@
+/*
+ * Se consideră un șir de caractere format doar din litere mici ale alfabetului englez.
+ * Scrieți un program care să transforme fiecare litera mică aflată pe poziție pară
+ * în literă mare.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 
